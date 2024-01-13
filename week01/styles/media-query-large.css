@@ -1,4 +1,4 @@
-@media screen and (min-width: 500px) {
+@media  (min-width: 500px) {
     header {
       background-color: #000; /* Black background color */
       color: #fff; /* White text color */
@@ -7,4 +7,4 @@
     main {
       grid-template-columns: 1fr 1fr; /* Display two columns of equal size */
     }
-  }
+}
